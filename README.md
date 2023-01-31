@@ -1,4 +1,4 @@
-# Convex-hull 
+# 🔶 Convex-hull 🔶
 <p>Project written as part of the "Geometric algorithms" course.</p>
 <p>The leading programming language during this course: Python.</p>
 <h3> Algorithms visualizations: </h3>
