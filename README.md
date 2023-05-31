@@ -9,11 +9,12 @@
 
 <p> The aim of the project was to familiarize oneself with various Convex Hull search algorithms, attempt their implementation and compare their actual runtime with their theoretical time complexity. Additionally, the project presented visualizations of the algorithms' operations, which can facilitate understanding of individual steps.</p>
 
+<h3> 🔸 Algorithms visualizations: </h3>
+
 <h3> 🔸 Divide and conquer algorithm</h3>
 <img src ="/gif/divideAndConquer.gif">
 <h3> 🔸 Incremental algorithm</h3>
 <img src ="/gif/incremental.gif">
-<h3> Algorithms visualizations: </h3>
 <h3> 🔸 Chan's algorithm</h3>
 <img src ="/gif/chan.gif">
 <h3> 🔸 Graham's algorithm</h3>
