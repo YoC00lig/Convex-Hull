@@ -9,6 +9,10 @@
 
 <p> The aim of the project was to familiarize oneself with various Convex Hull search algorithms, attempt their implementation and compare their actual runtime with their theoretical time complexity. Additionally, the project presented visualizations of the algorithms' operations, which can facilitate understanding of individual steps.</p>
 
+<h3> 🔸 Divide and conquer algorithm</h3>
+<img src ="/gif/divideAndConquer.gif">
+<h3> 🔸 Incremental algorithm</h3>
+<img src ="/gif/incremental.gif">
 <h3> Algorithms visualizations: </h3>
 <h3> 🔸 Chan's algorithm</h3>
 <img src ="/gif/chan.gif">
@@ -18,10 +22,6 @@
 <img src ="/gif/jarvis.gif">
 <h3> 🔸 Upper and lower convex hull algorithm</h3>
 <img src ="/gif/upperAndLower.gif">
-<h3> 🔸 Divide and conquer algorithm</h3>
-<img src ="/gif/divideAndConquer.gif">
-<h3> 🔸 Incremental algorithm</h3>
-<img src ="/gif/incremental.gif">
 <h3> 🔸 QuickHull algorithm</h3>
 <img src ="/gif/quickhull.gif">
 
